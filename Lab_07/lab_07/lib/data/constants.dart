@@ -1,4 +1,5 @@
 //COLORES
+
 List<int> coloresEmpresas = [
   0xFF0AA5DB,
   0xFF247BBE,
